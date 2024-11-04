@@ -4,4 +4,3 @@ public class PDFDocument implements Document {
         System.out.println("Renderizando documento PDF com configurações específicas.");
     }
 }
-//

@@ -4,4 +4,3 @@ public class TXTDocumentFactory extends DocumentFactory {
         return new TXTDocument();
     }
 }
-//

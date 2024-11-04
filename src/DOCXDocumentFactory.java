@@ -4,4 +4,3 @@ public class DOCXDocumentFactory extends DocumentFactory {
         return new DOCXDocument();
     }
 }
-//

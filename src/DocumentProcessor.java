@@ -12,4 +12,3 @@ public class DocumentProcessor {
         processDocument(new TXTDocumentFactory());
     }
 }
-//
