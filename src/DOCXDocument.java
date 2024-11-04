@@ -4,3 +4,4 @@ public class DOCXDocument implements Document {
         System.out.println("Renderizando documento DOCX com configurações específicas.");
     }
 }
+//

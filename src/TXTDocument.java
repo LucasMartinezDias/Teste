@@ -4,3 +4,4 @@ public class TXTDocument implements Document {
         System.out.println("Renderizando documento TXT com configurações específicas.");
     }
 }
+//
